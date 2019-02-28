@@ -1,0 +1,14 @@
+ADMIN APPLICATION
+
+-LOAD data from txt.file to create sqlite db.file in database
+-INSERT new food item to database
+-DELETE food item from database
+-UPDATE food item from database
+-BROWSE image for file upload
+-PREVIEW image of selected item
+-VALIDATE numeric input for price
+-VALIDATE item nonexist for ADD
+-VALIDATE item exists for DELETE
+-VALIDATE item exists for UPDATE
+-REFRESH database update Treeview
+-TREEVIEW for easy reference during DELETE or UPDATE

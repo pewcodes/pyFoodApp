@@ -1,0 +1,7 @@
+USER APPLICATION
+
+-READ data directly from db.file from database instead of txt.file
+-SEARCH item by Name & Category
+-FILTER food item by Max Price
+-PREVIEW image of selected item
+-RELOAD data updates Treeview

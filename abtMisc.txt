@@ -1,0 +1,6 @@
+MISC
+
+-MENUBAR with FILE & HELP submenu
+-FILE with QUIT App function
+-QUIT confirmation pop-up
+-HELP with ABOUT App & CREDITS
