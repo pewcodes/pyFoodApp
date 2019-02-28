@@ -323,7 +323,7 @@ b1 = ttk.Button(window,text='Reload Data',command=reloadData)
 b1.grid(row=8,column=0,columnspan=3,pady=10)
 
 #----- Credits -----#
-creditMsg = tk.Message(window, text='By| Pewcodes')
+creditMsg = tk.Message(window, text='PEW CODES')
 creditMsg.config(font=("Courier", 8))
 creditMsg.place(relx=0.98,rely=0.98,anchor="se")
 
