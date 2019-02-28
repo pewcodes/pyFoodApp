@@ -388,7 +388,7 @@ bUpdate = ttk.Button(window,text='Update',command=updateData)               # "U
 bUpdate.place(relx=0.52,rely=0.85,anchor="c")
 
 #----- Credits -----#
-creditMsg = tk.Message(window, text='By| Pewcodes')
+creditMsg = tk.Message(window, text='PEW CODES')
 creditMsg.config(font=("Courier", 8))
 creditMsg.place(relx=0.98,rely=0.98,anchor="se")
 
