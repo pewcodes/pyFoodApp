@@ -1,5 +1,5 @@
 # pyFoodAppGUI <img alt="GitHub" src="https://img.shields.io/github/license/pewcodes/pyFoodAppGUI.svg">
-
+An extension to [pyMenu](https://github.com/pewcodes/pyMenu).
 ### Admin Application
 **System for admins to insert, delete, read items through database instead of .txt file**
 
